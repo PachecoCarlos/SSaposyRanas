@@ -179,7 +179,7 @@ interfaz visual, al menú y al funcionamiento del videojuego.        <strong></s
     <img
         width="438"
         height="248"
-        src="file:///C:/Users/CARLOS~1/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg"
+        src="02.jpg"
         align="left"
         hspace="12"
     />
@@ -373,7 +373,7 @@ interfaz visual, al menú y al funcionamiento del videojuego.        <strong></s
     <img
         width="642"
         height="254"
-        src="file:///C:/Users/CARLOS~1/AppData/Local/Temp/msohtmlclip1/01/clip_image005.jpg"
+        src="03.jpg"
         align="left"
         hspace="12"
     />
@@ -543,7 +543,7 @@ interfaz visual, al menú y al funcionamiento del videojuego.        <strong></s
     <img
         width="576"
         height="206"
-        src="file:///C:/Users/CARLOS~1/AppData/Local/Temp/msohtmlclip1/01/clip_image007.jpg"
+        src="04.jpg"
         align="left"
         hspace="12"
     />
@@ -788,7 +788,7 @@ interfaz visual, al menú y al funcionamiento del videojuego.        <strong></s
     <img
         width="246"
         height="82"
-        src="file:///C:/Users/CARLOS~1/AppData/Local/Temp/msohtmlclip1/01/clip_image008.png"
+        src="05.jpg"
     />
 </p>
 <p>
@@ -813,7 +813,7 @@ interfaz visual, al menú y al funcionamiento del videojuego.        <strong></s
     <img
         width="246"
         height="92"
-        src="file:///C:/Users/CARLOS~1/AppData/Local/Temp/msohtmlclip1/01/clip_image009.png"
+        src="06.jpg"
     />
     bool ObjetoIT::fin()
 </p>
@@ -867,7 +867,7 @@ interfaces diferentes donde se comunican por la clase    <strong>AguilaAdapter <
                 <img
                     width="363"
                     height="0"
-                    src="file:///C:/Users/CARLOS~1/AppData/Local/Temp/msohtmlclip1/01/clip_image010.jpg"
+                    src="06.jpg"
                 />
             </td>
         </tr>
@@ -1234,7 +1234,7 @@ interfaces diferentes donde se comunican por la clase    <strong>AguilaAdapter <
     <img
         width="322"
         height="0"
-        src="file:///C:/Users/CARLOS~1/AppData/Local/Temp/msohtmlclip1/01/clip_image011.jpg"
+        src="08.jpg"
         align="left"
         hspace="12"
         alt="Prototype en UML"
@@ -1392,7 +1392,7 @@ interfaces diferentes donde se comunican por la clase    <strong>AguilaAdapter <
         <img
             width="589"
             height="0"
-            src="file:///C:/Users/CARLOS~1/AppData/Local/Temp/msohtmlclip1/01/clip_image012.png"
+            src="09.jpg"
             align="left"
             hspace="12"
             alt="Bridge classdia.png"
@@ -1509,7 +1509,7 @@ interfaces diferentes donde se comunican por la clase    <strong>AguilaAdapter <
     <img
         width="440"
         height="221"
-        src="file:///C:/Users/CARLOS~1/AppData/Local/Temp/msohtmlclip1/01/clip_image014.jpg"
+        src="10.jpg"
     />
 </p>
 <h2>
