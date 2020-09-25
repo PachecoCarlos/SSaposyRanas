@@ -19,7 +19,6 @@
        <li>
             Univ. Berrios Escalera Abril Johana
        </li>
-       
        <li>
             Univ. Gonzales Tito Sebastian
        </li>
@@ -28,17 +27,14 @@
        </li>
        <li> 
             Univ. Villca Saigua Raul Carmelo
-       </li>
-       
+    </li>
        <li>
             Univ. Limachi Carrillo Grover Tomas
        </li>
        <li>
             Univ. Peñafiel Picha Erick Martín
        </li>
-       
  </ul>
-   
  </p>
 <p>
     El videojuego “Sapos y Ranas” elaborado en la materia de “Programación
