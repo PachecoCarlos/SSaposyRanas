@@ -1,9 +1,41 @@
 # SaposyRanas
 <div>
     <p>
-        Videojuego “Sapos y Ranas” en C++
+        Videojuego “Sapos y Ranas” en C++ para consola
     </p>
 </div>
+<p>
+    Este es el trabajo resultante del semestre 01/2020, que fue desarrollado por un equipo conformado por el docente de la asignatura y un grupo de estudiantes:
+    Docente:</n>
+    Ing. Carlos Walter Pacheco Lora Ph.   Estudiantes:
+   <ul>
+       <li>
+            Univ. Acebey Laime Martin Andres 
+       </li>
+       <li>
+            Univ. Berrios Escalera Abril Johana
+       </li>
+       </li>
+       <li>
+            Univ. Gonzales Tito Sebastian
+       </li>
+       <li>
+            Univ. Taboada Chuve Alexy Sdenka
+       </li>
+       <li> 
+            Univ. Villca Saigua Raul Carmelo
+       </li>
+       
+       <li>
+            Univ. Limachi Carrillo Grover Tomas
+       </li>
+       <li>
+            Univ. Peñafiel Picha Erick Martín
+       </li>
+       
+ </ul>
+   
+         </p>
 <p>
     El videojuego “Sapos y Ranas” elaborado en la materia de “Programación
     Avanzada” de la universidad Mayor, Real y Pontificia de San Francisco
@@ -14,9 +46,7 @@
     Para la construcción del juego se utilizó diferentes patrones listados a
     continuación:
 </p>
-<ul>
-    <li>
-        Abstract factory
+<  Abstract factory
     </li>
     <li>
         Adapter
