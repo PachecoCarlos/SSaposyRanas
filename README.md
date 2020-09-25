@@ -785,13 +785,6 @@ interfaz visual, al menú y al funcionamiento del videojuego.        <strong></s
     virtual void preEnter();
 </p>
 <p>
-    <img
-        width="246"
-        height="82"
-        src="05.jpg"
-    />
-</p>
-<p>
     void ObjetoIT::preEnter()
 </p>
 <p>
@@ -808,14 +801,6 @@ interfaz visual, al menú y al funcionamiento del videojuego.        <strong></s
 </p>
 <p>
     virtual bool fin();
-</p>
-<p>
-    <img
-        width="246"
-        height="92"
-        src="06.jpg"
-    />
-    bool ObjetoIT::fin()
 </p>
 <p>
     {
@@ -867,7 +852,7 @@ interfaces diferentes donde se comunican por la clase    <strong>AguilaAdapter <
                 <img
                     width="363"
                     height="0"
-                    src="06.jpg"
+                    src="05.jpg"
                 />
             </td>
         </tr>
@@ -1234,7 +1219,7 @@ interfaces diferentes donde se comunican por la clase    <strong>AguilaAdapter <
     <img
         width="322"
         height="0"
-        src="08.jpg"
+        src="06.jpg"
         align="left"
         hspace="12"
         alt="Prototype en UML"
@@ -1392,7 +1377,7 @@ interfaces diferentes donde se comunican por la clase    <strong>AguilaAdapter <
         <img
             width="589"
             height="0"
-            src="09.jpg"
+            src="07.jpg"
             align="left"
             hspace="12"
             alt="Bridge classdia.png"
@@ -1509,7 +1494,7 @@ interfaces diferentes donde se comunican por la clase    <strong>AguilaAdapter <
     <img
         width="440"
         height="221"
-        src="10.jpg"
+        src="08.jpg"
     />
 </p>
 <h2>
