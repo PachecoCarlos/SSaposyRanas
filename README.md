@@ -81,7 +81,7 @@ interfaz visual, al menú y al funcionamiento del videojuego.        <strong></s
     <img
         width="535"
         height="309"
-        src="file:///C:/Users/CARLOS~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg"
+        src="01.jpg"
         align="left"
         hspace="12"
     />
