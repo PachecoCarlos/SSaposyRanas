@@ -11,7 +11,8 @@
         <li>
             Docente: Ing. Carlos Walter Pacheco Lora
         </li>
-             
+   </ul>
+   <ul>
        <li>
             Univ. Acebey Laime Martin Andres 
        </li>
@@ -38,7 +39,7 @@
        
  </ul>
    
-         </p>
+ </p>
 <p>
     El videojuego “Sapos y Ranas” elaborado en la materia de “Programación
     Avanzada” de la universidad Mayor, Real y Pontificia de San Francisco
