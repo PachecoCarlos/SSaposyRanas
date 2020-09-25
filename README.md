@@ -46,7 +46,7 @@
     Para la construcción del juego se utilizó diferentes patrones listados a
     continuación:
 </p>
-<  Abstract factory
+<li>  Abstract factory
     </li>
     <li>
         Adapter
