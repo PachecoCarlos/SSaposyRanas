@@ -6,16 +6,19 @@
 </div>
 <p>
     Este es el trabajo resultante del semestre 01/2020, que fue desarrollado por un equipo conformado por el docente de la asignatura y un grupo de estudiantes:
-    Docente:</n>
-    Ing. Carlos Walter Pacheco Lora Ph.   Estudiantes:
+    Docente:
+    
    <ul>
+        <li>Ing. Carlos Walter Pacheco Lora Ph.   Estudiantes:
+            </li>
+             
        <li>
             Univ. Acebey Laime Martin Andres 
        </li>
        <li>
             Univ. Berrios Escalera Abril Johana
        </li>
-       </li>
+       
        <li>
             Univ. Gonzales Tito Sebastian
        </li>
